@@ -1,0 +1,13 @@
+PyPDF2==3.0.1
+langchain
+langchain-community
+langchain-ibm
+langchain-chroma
+ibm-watson
+chromadb
+flask==2.2.5
+requests==2.31.0
+ibm-watsonx-ai
+gunicorn==20.1.0
+werkzeug==2.2.3
+flask-cors

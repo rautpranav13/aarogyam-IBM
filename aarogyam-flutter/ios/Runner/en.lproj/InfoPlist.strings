@@ -1,0 +1,2 @@
+NSMicrophoneUsageDescription = "For voice chat";
+PermissionGroupNotification = "notify";
